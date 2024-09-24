@@ -35,3 +35,17 @@ A instalação pedirá um usuário e senha para o sistema para a instalação de
 
 ![image](https://github.com/user-attachments/assets/d5edaf24-6d90-4d0e-b657-f3a925fe5a58)
 
+Defina os recursos da sua máquina. Quantos Giga de memória esta máquina virtual irá utilizar e quantas CPUs. Eu coloquei 1024Mb (1Gb) e 2 CPUs:
+
+![image](https://github.com/user-attachments/assets/cc0668bb-ae02-42a6-839b-d026e234376a)
+
+Ecolha o tamanho do disco:
+
+![image](https://github.com/user-attachments/assets/09f936cc-0aad-4332-8361-da1325fc15dd)
+
+Basta revisar os parâmetros e finalizar.
+
+![image](https://github.com/user-attachments/assets/3df82700-d1d5-4dc5-9f4a-4d622e0c8f65)
+
+
+###
