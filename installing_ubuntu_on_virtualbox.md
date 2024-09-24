@@ -47,6 +47,15 @@ Basta revisar os parâmetros e finalizar.
 
 ![image](https://github.com/user-attachments/assets/3df82700-d1d5-4dc5-9f4a-4d622e0c8f65)
 
+Agora entre na opção "Configuração" e escolha a Aba "Rede":
+
+![image](https://github.com/user-attachments/assets/630a2383-70ed-4dbd-9692-12ebb372f033)
+
+Nesta Aba você deverá alterar a placa de rede para modo Bridge, conforme a imagem abaixo e clicar em ok:
+
+![image](https://github.com/user-attachments/assets/3b2edd94-fbce-4110-855c-2f90f24a9476)
+
+
 Depois de realizar esta primeira configuração, na home do aplicativo VirtualBox clique duas vezes para iniciar sua VM e ela irá configurar automaticamente.
 
 
