@@ -6,3 +6,5 @@ O sistema operacional Linux é considerado um dos mais estáveis, seguros e de m
 * Minimalismo do Arch
 * Inovação com o Fedora
 
+Neste repositório, você verá:
+
