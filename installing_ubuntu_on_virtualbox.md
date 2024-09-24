@@ -1,2 +1,2 @@
-# Procedimento para instalar e utilizar o linux ubunto com VirtualBox #
+## Procedimento para instalar e utilizar o linux ubuntu com VirtualBox
 
