@@ -47,5 +47,6 @@ Basta revisar os parâmetros e finalizar.
 
 ![image](https://github.com/user-attachments/assets/3df82700-d1d5-4dc5-9f4a-4d622e0c8f65)
 
+Depois de realizar esta primeira configuração, na home do aplicativo VirtualBox clique duas vezes para iniciar sua VM e ela irá configurar automaticamente.
 
-###
+
