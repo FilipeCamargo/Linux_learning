@@ -27,3 +27,11 @@ Depois você precisará informar onde está a imagem do Ubuntu:
 
 ![image](https://github.com/user-attachments/assets/358aa68d-8c18-46d7-8cb4-f5351725d7d5)
 
+Provavelmente a imagem se encontra na pasta de Downloads do seu usuário:
+
+![image](https://github.com/user-attachments/assets/eba612b0-89a2-4768-9117-0c5198af7676)
+
+A instalação pedirá um usuário e senha para o sistema para a instalação desassistida. Coloque um nome para o seu servidor e um nome de domínio:
+
+![image](https://github.com/user-attachments/assets/d5edaf24-6d90-4d0e-b657-f3a925fe5a58)
+
