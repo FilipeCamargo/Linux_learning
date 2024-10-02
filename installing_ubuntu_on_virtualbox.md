@@ -54,7 +54,7 @@ Agora entre na opção "Configuração" e escolha a Aba "Rede":
 Nesta Aba você deverá alterar a placa de rede para modo Bridge, conforme a imagem abaixo e clicar em ok:
 
 ![image](https://github.com/user-attachments/assets/3b2edd94-fbce-4110-855c-2f90f24a9476)
-
+Caso não consiga acessá-la via Putty, altere a opção "Modo promíscuo" para Aceitar tudo.
 
 Depois de realizar esta primeira configuração, na home do aplicativo VirtualBox clique duas vezes para iniciar sua VM e ela irá configurar automaticamente. **Aguarde a instalação terminar**
 
