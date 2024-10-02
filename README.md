@@ -1,8 +1,8 @@
 # Linux_learning 🐧
 
-É um sistema operacional “Open Source” suportado por uma comunidade global.
-
 Um sistema operacional é um software que gerencia os recursos de um Hardware, fazendo uma ponte entre o usuário final e a linguagem entendida máquina. É ele quem vai gerenciar o uso de memória, de processador e desempenho através do seu KERNEL, considerada a parte central do SO.
+
+O Linux é conhecido como um dos SO's mais seguros do mercado, geralmente utilizado para hospedar aplicações e sites, muito disseminado nas empresas de tecnologia se tornou uma ferramenta necessária no currículo dos profissionais de TI
 
 Neste repositório, você verá:
 
