@@ -1,10 +1,8 @@
 # Linux_learning 🐧
 
-O sistema operacional Linux é considerado um dos mais estáveis, seguros e de maior desempenho para servidores. Tendo seu Kernel sólido, o Linux também conta com uma comunidade que contribui para as melhorias do SO e desenvolve distribuições para diversos focos, como:
-* Versatilidade do Ubuntu
-* Simplicidade do Mint
-* Minimalismo do Arch
-* Inovação com o Fedora
+É um sistema operacional “Open Source” suportado por uma comunidade global.
+
+Um sistema operacional é um software que gerencia os recursos de um Hardware, fazendo uma ponte entre o usuário final e a linguagem entendida máquina. É ele quem vai gerenciar o uso de memória, de processador e desempenho através do seu KERNEL, considerada a parte central do SO.
 
 Neste repositório, você verá:
 
