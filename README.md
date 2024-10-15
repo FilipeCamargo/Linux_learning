@@ -7,3 +7,5 @@ O Linux é conhecido como um dos SO's mais seguros do mercado, geralmente utiliz
 Neste repositório, você verá:
 
 [Como Instalar Linux Ubuntu no VirtualBox](https://github.com/FilipeCamargo/Linux_learning/blob/main/installing_ubuntu_on_virtualbox.md#procedimento-para-instalar-e-utilizar-o-linux-ubuntu-com-virtualbox)
+
+[Como gerenciar usuários no Linux](managing_users_as_code.sh)
